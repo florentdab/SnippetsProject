@@ -1,0 +1,2 @@
+# SnippetsProject
+python, DRF
